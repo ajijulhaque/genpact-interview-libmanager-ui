@@ -1,0 +1,3 @@
+export enum LIB_ITEM_TYPE{
+    BOOK, MOVIE, SONG, PODCAST, OTHERS
+}
